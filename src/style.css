@@ -1,0 +1,92 @@
+body {
+    background-color: #f2f3f5;
+}
+
+.topBar {
+    background-color: #0b0b31;
+}
+
+.topBarNav {
+    background-color: #0b0b31;
+    color: #a9a9a9;
+}
+
+.topBarNav ul {
+    list-style: none;
+}
+
+.topBar a {
+    color: #a9a9a9;
+    text-decoration: none;
+}
+
+.logo img {
+    margin-top: 20px;
+}
+
+.mainNavButtons button {
+    color: #f0fff2;
+    background-color: #0b0b31;
+    margin-right: 5px;
+}
+
+.mainNavButtons ul {
+    list-style: none;
+}
+
+.carouselGroup li {
+    list-style: none;
+}
+
+.carouselButton {
+    background-color: #808080;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.blogBorder {
+    border: solid 2px #a9a9a9;
+    border-bottom: none;
+    border-left: none;
+}
+
+.blogBorderTop {
+    border-top: solid 2px #a9a9a9;;
+}
+
+.blogTitle h1 {
+    font-size: 60px;
+    color: #0e1e31;
+    margin: 35px 0px 35px 0px; /*top right bottom left */
+}
+
+.blogImg img {
+    margin: 0 0 35px 0;
+}
+
+.blogDescription p {
+    color: #8e8080;
+}
+
+.blogButton input {
+    color: #fffff4;
+    background-color: #213349;
+    margin: 35px 0 35px 0;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+.footerBackground {
+    background-color: #0e1e31;
+}
+
+.footerBackground p {
+    color: #fffff4;
+}
